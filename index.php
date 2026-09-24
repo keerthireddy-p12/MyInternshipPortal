@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>MyInternshipPortal - Home</title>
+    <title>MyInternshipPortal - HOME</title>
     
 
     <style>
