@@ -76,6 +76,11 @@ if(isset($_POST['register'])){
                 <input type="number" step="0.01" name="cgpa" class="form-control" required>
             </div>
 
+            <div class="mb-3">
+    <label for="phone" class="form-label">Phone Number</label>
+    <input type="text" class="form-control" id="phone" name="phone">
+</div>
+
             <button name="register" class="btn btn-primary w-100">
                 Register
             </button>
